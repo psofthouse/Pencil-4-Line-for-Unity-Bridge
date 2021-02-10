@@ -5,7 +5,7 @@
   "unity": "2018.3",
   "description": "Pencil+ 4 Bridge is used to write Pencil+ 4 Line settings to file and read them back.",
   "dependencies": {
-    "jp.co.psoft.pencil_4.line.unity": "4.0.4"
+    "jp.co.psoft.pencil_4.line.unity": "4.1.0"
   },
   "author": {
     "name": "P SOFTHOUSE Co., Ltd.",
